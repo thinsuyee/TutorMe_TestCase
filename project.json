@@ -1,6 +1,6 @@
 {
   "name": "UIPathTutorMe",
-  "description": "Test Automation Project",
+  "description": "Test Automation Project1",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.System.Activities": "[21.10.5]",
@@ -11,7 +11,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "21.10.8.0",
-  "projectVersion": "1.0.136720452",
+  "projectVersion": "1.0.136726531",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -40,7 +40,7 @@
     },
     "fileInfoCollection": [
       {
-        "editingStatus": "InProgress",
+        "editingStatus": "Publishable",
         "testCaseId": "8fc87326-d9b7-4aee-9b91-0a5113a9f3d6",
         "fileName": "TestCase.xaml"
       }
